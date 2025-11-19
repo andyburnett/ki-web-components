@@ -2,3 +2,4 @@
 // import './components/ki-address.js'; 
 import './components/ki-guidelines.js'; 
 import './components/ki-badge.js';
+import './components/ki-idea.js';
