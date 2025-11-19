@@ -4,7 +4,7 @@ class KiBadge extends HTMLElement {
     constructor() {
         super();
         this.attachShadow({ mode: 'open' });
-        this._name = 'Employee Name'; // Default internal state
+        this._name = 'Employee Name'; // Default internal state and size
         this._title = 'Role/Title';   // Default internal state
     }
 
